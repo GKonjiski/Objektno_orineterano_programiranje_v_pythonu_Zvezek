@@ -2,7 +2,7 @@
 
 Učni zvezek (Jupyter Notebook) za osnove objektno usmerjenega programiranja (OOP) in dekoratorjev v Pythonu.
 
-Zvezek je nastal ob gledanju tečaja **[Bro Code](https://www.youtube.com/@BroCodez)** na YouTubu.
+Vsebina temelji na Bro Code YouTube kanalu.
 
 ## Vsebina
 
