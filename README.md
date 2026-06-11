@@ -21,10 +21,4 @@ Zvezek je nastal ob gledanju tečaja **[Bro Code](https://www.youtube.com/@BroCo
 - **Dunder metode** — `__str__`, `__eq__`, `__lt__`, `__add__`, `__contains__`, `__getitem__`
 - **`@property`** — getter, setter, deleter
 
-## Uporaba
 
-Odpri zvezek v Jupyter Notebooku ali JupyterLab:
-
-```bash
-jupyter notebook Objektno_orientirano_in_dekoratorji.ipynb
-```
